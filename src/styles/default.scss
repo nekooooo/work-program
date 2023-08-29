@@ -1,0 +1,44 @@
+//flex
+.flex-jb{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-column{
+    display:flex;
+    flex-direction: column;
+}
+.flex-align-center{
+    align-items: center;
+}
+.full{
+height: 100%;
+width: 100%;
+}
+//back_color
+.back-color-w{
+    background: #f1f5f8;
+}
+.back-color-99{
+    background-color: #999;
+}
+//fon
+.fon-12{
+    font-size: 12px;
+}
+.fon-14{
+   font-size: 14px;
+}
+.fon-16{
+   font-size: 16px;
+}
+.fon-col-99{
+    color: #999;
+}
+//margin
+.mar-le5{
+    margin-left: 5px;
+}
+.mar-le10{
+    margin-left: 10px;
+}
+//border
